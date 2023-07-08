@@ -6,7 +6,7 @@ export const PEOPLE = [
     'category-image': 'manager.png',
     company: 'Tesla',
     'company-image': 'tesla.png',
-    levelOfHappiness: '50'
+    levelOfHappiness: 50
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ export const PEOPLE = [
     'category-image': 'developer.png',
     company: 'Google',
     'company-image': 'google.png',
-    levelOfHappiness: '80'
+    levelOfHappiness: 80
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ export const PEOPLE = [
     'category-image': 'designer.png',
     company: 'Apple',
     'company-image': 'apple.png',
-    levelOfHappiness: '70'
+    levelOfHappiness: 70
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ export const PEOPLE = [
     'category-image': 'manager.png',
     company: 'Microsoft',
     'company-image': 'microsoft.png',
-    levelOfHappiness: '60'
+    levelOfHappiness: 60
   },
   {
     id: 5,
@@ -42,7 +42,7 @@ export const PEOPLE = [
     'category-image': 'developer.png',
     company: 'Amazon',
     'company-image': 'amazon.png',
-    levelOfHappiness: '90'
+    levelOfHappiness: 90
   },
   {
     id: 6,
@@ -51,7 +51,7 @@ export const PEOPLE = [
     'category-image': 'designer.png',
     company: 'Facebook',
     'company-image': 'facebook.png',
-    levelOfHappiness: '75'
+    levelOfHappiness: 75
   },
   {
     id: 7,
@@ -60,7 +60,7 @@ export const PEOPLE = [
     'category-image': 'manager.png',
     company: 'Netflix',
     'company-image': 'netflix.png',
-    levelOfHappiness: '55'
+    levelOfHappiness: 55
   },
   {
     id: 8,
@@ -69,7 +69,7 @@ export const PEOPLE = [
     'category-image': 'developer.png',
     company: 'IBM',
     'company-image': 'ibm.png',
-    levelOfHappiness: '85'
+    levelOfHappiness: 85
   },
   {
     id: 9,
@@ -78,7 +78,7 @@ export const PEOPLE = [
     'category-image': 'designer.png',
     company: 'Adobe',
     'company-image': 'adobe.png',
-    levelOfHappiness: '65'
+    levelOfHappiness: 65
   },
   {
     id: 10,
@@ -87,7 +87,7 @@ export const PEOPLE = [
     'category-image': 'manager.png',
     company: 'Twitter',
     'company-image': 'twitter.png',
-    levelOfHappiness: '45'
+    levelOfHappiness: 45
   },
   {
     id: 11,
@@ -96,7 +96,7 @@ export const PEOPLE = [
     'category-image': 'developer.png',
     company: 'Intel',
     'company-image': 'intel.png',
-    levelOfHappiness: '75'
+    levelOfHappiness: 75
   },
   {
     id: 12,
@@ -105,7 +105,7 @@ export const PEOPLE = [
     'category-image': 'designer.png',
     company: 'Samsung',
     'company-image': 'samsung.png',
-    levelOfHappiness: '80'
+    levelOfHappiness: 80
   },
   {
     id: 13,
@@ -114,7 +114,7 @@ export const PEOPLE = [
     'category-image': 'manager.png',
     company: 'Oracle',
     'company-image': 'oracle.png',
-    levelOfHappiness: '70'
+    levelOfHappiness: 70
   },
   {
     id: 14,
@@ -123,7 +123,7 @@ export const PEOPLE = [
     'category-image': 'developer.png',
     company: 'HP',
     'company-image': 'hp.png',
-    levelOfHappiness: '60'
+    levelOfHappiness: 60
   },
   {
     id: 15,
@@ -132,6 +132,6 @@ export const PEOPLE = [
     'category-image': 'designer.png',
     company: 'Sony',
     'company-image': 'sony.png',
-    levelOfHappiness: '90'
+    levelOfHappiness: 90
   }
 ]
