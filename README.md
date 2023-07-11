@@ -8,17 +8,17 @@ Let the development games begin ! <br />
 
 ## Take in consideration:
 
-  ● Any JavaScript libraries and/or frameworks are at your disposal. <br />
-  ● Only for the latest browsers. <br />
-  ● Use Typescript and ES6. <br />
-  ● We encourage you to use SCSS. <br />
-  ● Bonus points: <br />
-    ○ Code quality <br />
-    ○ Mobile support <br />
-    ○ Application structure <br />
-    ○ Unit testing <br />
-    ○ UX <br />
-    ○ Optimization (load times and rendering performance) <br />
+- Any JavaScript libraries and/or frameworks are at your disposal. <br />
+- Only for the latest browsers. <br />
+- Use Typescript and ES6. <br />
+- We encourage you to use SCSS. <br />
+- Bonus points: <br />
+  - Code quality <br />
+  - Mobile support <br />
+  - Application structure <br />
+  - Unit testing <br />
+  - UX <br />
+  - Optimization (load times and rendering performance) <br />
 
 ## Let 's start !
 
@@ -28,10 +28,10 @@ EHTT, is an application that helps the user to track the happiness level of the
 people related to their company.
 Each person will have the following properties:
 
-  ● Name <br />
-  ● Category ( Employee or Manager) <br />
-  ● Company Name <br />
-  ● Happiness Level 
+* Name <br />
+* Category ( Employee or Manager) <br />
+* Company Name <br />
+* Happiness Level 
 
 We want you to list the people and allow searching through them by their name or
 category. The results should also include the logo of their company and the
@@ -64,7 +64,7 @@ instruction required for compiling and/or running it should be provided. <br />
 
 ## Delivery extra (not required)
 
-  ● Any UX or UI improvement you want to develop will be taken into
-  consideration.
-  ● It would be awesome to know if you didn’t have the time to complete the
-  exercise or if you would do something different if you had more time.
+- Any UX or UI improvement you want to develop will be taken into
+consideration. <br />
+- It would be awesome to know if you didn’t have the time to complete the
+exercise or if you would do something different if you had more time.
